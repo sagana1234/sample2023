@@ -5,5 +5,8 @@ class sum{
     int b=8;
     System.out.println(a-b);
     //important file
+    int c=4;
+    int e=8;
+    //
     }
 }
